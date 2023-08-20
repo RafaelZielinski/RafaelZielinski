@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelZielinski
 - 👀 I’m interested in watching TV series(Dexter New Blood), learning new language, practising coding
 - 🌱 I’m currently learning Java Core, Spring Boot, Git, MySQL, 
-- 💞️ I’m looking to collaborate on projects which get me a Job and obtaing necessery experience.
+- 💞️ I’m looking to collaborate on projects which get me a Job and obtaining necessary experience.
 - 📫 How to reach me rafekzielinski@wp.pl
 
 <!---
